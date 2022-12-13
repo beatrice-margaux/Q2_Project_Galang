@@ -1,0 +1,65 @@
+body {
+	background-color: #252525;
+}
+img {
+	display: block;
+ 	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	text-shadow: 2px 2px black;
+	text-decoration: underline;
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #E9C828;
+	text-align: center;
+}
+.BORDER {
+	border-style:  solid ;
+	border-color: #E9C828;
+	border-width: thick;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.TITLE {
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #E9C828;
+	text-align: center;
+	font-size: xx-large;
+	letter-spacing: 5px;
+}
+.TYPE{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #E9C828;
+	text-align: center;
+	font-size: x-large;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.DISH{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #E8EEF2;
+	text-align: center;
+	font-size: large;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.PRICE{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #E9C828;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+a{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #E8EEF2;
+}
+p{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #E9C828;
+	font-size: large;
+}
